@@ -1,0 +1,13 @@
+# Claude Code sessions and runtime data
+.claude/sessions/
+.claude/backups/
+.claude/telemetry/
+.claude/session-env/
+.claude/shell-snapshots/
+.claude/projects/
+
+# macOS
+.DS_Store
+
+# Editor
+.vscode/
