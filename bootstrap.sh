@@ -12,7 +12,7 @@ echo "Setting up Claude environment from: $REPO_DIR"
 # ── Skills ────────────────────────────────────────────────────────────────────
 mkdir -p "$SKILLS_DIR"
 
-for skill in agent-skill-builder firebase-standard-manager premium-ui-polisher; do
+for skill in agent-skill-builder firebase-standard-manager premium-ui-polisher sandbox-architect deployment-commander project-mounter; do
   target="$SKILLS_DIR/$skill"
   if [ -e "$target" ]; then
     echo "  [skip] $skill already exists at $target"

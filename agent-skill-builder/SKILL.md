@@ -24,3 +24,4 @@ This skill provides a framework for building high-quality Agent Skills. It ensur
 - [SECURITY_CHECKLIST.md](SECURITY_CHECKLIST.md): Security and safety validation steps.
 - [EVALUATION_CRITERIA.md](EVALUATION_CRITERIA.md): How to measure skill quality.
 - [DEPLOYMENT_STRATEGY.md](DEPLOYMENT_STRATEGY.md): How to use skills across all projects.
+- [bootstrap-project.sh](../scripts/bootstrap-project.sh): Automation script for starting new project clusters.
